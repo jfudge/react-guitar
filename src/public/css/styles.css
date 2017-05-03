@@ -1,0 +1,55 @@
+
+body{
+	font-family: 'Pathway Gothic One', sans-serif;	
+	background: #181818;
+}
+
+a, a:hover{
+	color: #c81429;
+}
+
+h1.title{
+	text-align: center;
+	margin: 0 auto;
+    font-family: 'Pathway Gothic One';
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    font-size: 1.8em;
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    -webkit-font-smoothing: antialiased;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    color: #fdfdfd;
+
+}
+
+h1{
+	text-transform: uppercase;
+	font-size: 1.8em;
+    font-weight: normal;
+    letter-spacing: 0.14em;
+    -webkit-font-smoothing: antialiased;
+    color: #c81429;
+
+}
+
+h3{
+	color: #c81429;
+}
+
+li{
+	font-family: 'Pathway Gothic One', sans-serif;
+
+    color: #fdfdfd;
+    font-size: 1.2em;
+    font-weight: normal;
+    line-height: 1.4em;
+    -webkit-font-smoothing: antialiased;
+    margin: 0;
+}
+
+.app-container{
+	padding-bottom: 50px;
+	
+}
